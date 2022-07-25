@@ -6,3 +6,5 @@ Johann[[:space:]]Strauss[[:space:]]II[[:space:]]-[[:space:]]The[[:space:]]Blue[[
 .mp3 filter=lfs diff=lfs merge=lfs -text
 *.mp3 filter=lfs diff=lfs merge=lfs -text
 .prefab filter=lfs diff=lfs merge=lfs -text
+.png filter=lfs diff=lfs merge=lfs -text
+.tiff filter=lfs diff=lfs merge=lfs -text
