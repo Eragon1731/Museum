@@ -5,3 +5,4 @@ Assets/** filter=lfs diff=lfs merge=lfs -text
 Johann[[:space:]]Strauss[[:space:]]II[[:space:]]-[[:space:]]The[[:space:]]Blue[[:space:]]Danube[[:space:]]Waltz.wav filter=lfs diff=lfs merge=lfs -text
 .mp3 filter=lfs diff=lfs merge=lfs -text
 *.mp3 filter=lfs diff=lfs merge=lfs -text
+.prefab filter=lfs diff=lfs merge=lfs -text
